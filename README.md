@@ -1,4 +1,5 @@
 <p><blink>Life is like riding a bicycle. To keep your balance, you must keep moving.</blink>--Albert Einstein</p>
+
 ![image](https://github.com/cosmicray001/cosmicray001/blob/master/assets/dino.gif)
 <table>
     <tr>
