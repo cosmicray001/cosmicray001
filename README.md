@@ -1,5 +1,5 @@
-## Life is like riding a bicycle. To keep your balance, you must keep moving. __Albert Einstein
-
+## Life is like riding a bicycle. To keep your balance, you must keep moving.
+## __Albert Einstein
 ![image](https://github.com/cosmicray001/cosmicray001/blob/master/assets/dino.gif)
 <table>
     <tr>
