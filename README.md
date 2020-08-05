@@ -1,5 +1,5 @@
 ### Life is like riding a bicycle. To keep your balance, you must keep moving. — Albert Einstein.
-![image](https://github.com/cosmicray001/cosmicray001/blob/master/assets/gif_001.gif)
+![image](https://github.com/cosmicray001/cosmicray001/blob/master/assets/gif003.gif)
 <table>
     <tr>
       <th><a href="https://cosmicray001.github.io/" target="_blank"><img alt="me on web" src="https://raw.githubusercontent.com/cosmicray001/cosmicray001/master/assets/www.svg" title="me on web" width="32" height="32" /></a></th>
