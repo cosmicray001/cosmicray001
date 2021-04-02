@@ -1,8 +1,8 @@
 ### Life is like riding a bicycle. To keep your balance, you must keep moving. — Albert Einstein.
-![image](https://github.com/cosmicray001/cosmicray001/blob/master/assets/gif003.gif)
+![image](assets/gif003.gif)
 <table>
     <tr>
-      <th><a href="https://cosmicray001.github.io/" target="_blank"><img alt="me on web" src="https://raw.githubusercontent.com/cosmicray001/cosmicray001/master/assets/www.svg" title="me on web" width="32" height="32" /></a></th>
+      <th><a href="https://cosmicray001.github.io/" target="_blank"><img alt="me on web" src="assets/www.svg" title="me on web" width="32" height="32" /></a></th>
       <th><a href="mailto:samiulislambracu@gmail.com" target="_blank"><img alt="Gmail" src="https://raw.githubusercontent.com/cosmicray001/cosmicray001/master/assets/google-gmail.svg" title="Email" width="32" height="32" /></a></th>
       <th><a href="https://github.com/cosmicray001" target="_blank"><img alt="GitHub" title="GitHub" height="32" width="32" src="https://raw.githubusercontent.com/cosmicray001/cosmicray001/master/assets/github.svg"></a></th>
       <th><a href="https://github.com/cosmicray001/cosmicray001/blob/master/assets/docs/samiul_islam.pdf" target="_blank"><img alt="CV" title="CV" height="32" width="32" src="https://raw.githubusercontent.com/cosmicray001/cosmicray001/master/assets/cv.svg"></a></th>
